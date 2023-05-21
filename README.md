@@ -1,9 +1,9 @@
 # What is Flink?
 
-1. Flink is open-source stream processing framework for distributed, high-performing, always available and data streaming apllication.
-2. It also provides support for Batch processing, Graph processing, Iterative processing.
-3. Speed comparison : Flink > Spark > Hadoop.
-4. Low latency and high throughput application.
+- Flink is open-source stream processing framework for distributed, high-performing, always available and data streaming apllication.
+- It also provides support for Batch processing, Graph processing, Iterative processing.
+- Speed comparison : Flink > Spark > Hadoop.
+- Low latency and high throughput application.
 
 -------------------------------------------------------------------------
 
@@ -20,3 +20,17 @@
 - Read and write in memory. (input_file -> In memory operations -> output_file).
 - Easy to program with tons of high level operators.
 - Supports iterative processing.
+
+-------------------------------------------------------------------------
+
+# Spark vs Flink
+
+## Spark
+- Spark is not a true real time processing framework, it's near to real time processing framework.
+- Spark is implemented in Scala.
+- Spark does not have an efficient memory management.
+
+## Flink
+- Flink is focused on the streaming processing.
+- Flink is implemented in Java.
+- Flink has it's own efficient automatic memory manager.
