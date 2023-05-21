@@ -1,4 +1,4 @@
-"What is Flink?"
+#What is Flink?
 
 1. Flink is open-source stream processing framework for distributed, high-performing, always available and data streaming apllication.
 2. It also provides support for Batch processing, Graph processing, Iterative processing.
@@ -7,7 +7,7 @@
 
 -------------------------------------------------------------------------
 
-"Hadoop vs Spark/Flink"
+#Hadoop vs Spark/Flink
 
 Hadoop
 - Batch processing framework.
